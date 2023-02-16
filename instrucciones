@@ -1,0 +1,5 @@
+se crea el archivo como un componente y se importa en la vista deseada como una etiqueta por ejemplo:
+
+1. import Timeout from "../../components/timeout/timeout";
+
+2. <Timeout />
